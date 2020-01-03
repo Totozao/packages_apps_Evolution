@@ -19,92 +19,92 @@
     <string name="evolution_settings_title">Evolution X</string>
 
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP Gestures</string>
-    <string name="animation_title">Animations</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="dev_options_title">Developer options items</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="hardware_keys_title">Hardware keys</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navigation_title">Navigation</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="settings_dashboard_title">Settings dashboard items</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="swipe_gestures_title">Swipe gestures</string>
-    <string name="system_settings_title">System options</string>
-    <string name="torch_gestures_title">Torch gestures</string>
-    <string name="volume_keys_title">Volume keys</string>
+    <string name="aosp_gesture_title">AOSP Жесты</string>
+    <string name="animation_title">Анимации</string>
+    <string name="buttons_title">Аппаратные кнопки</string>
+    <string name="dev_options_title">Элементы параметров разработчика</string>
+    <string name="gestures_title">Жесты</string>
+    <string name="hardware_keys_title">Аппаратные кнопки</string>
+    <string name="lockscreen_title">Экран блокировки</string>
+    <string name="misc_title">Дополнительно</string>
+    <string name="navigation_title">Навигация</string>
+    <string name="notifications_title">Уведомления</string>
+    <string name="powermenu_title">Меню питания</string>
+    <string name="quicksettings_title">Быстрые настройки</string>
+    <string name="settings_dashboard_title">Настройка элементов панели инструментов</string>
+    <string name="statusbar_title">Строка состояния</string>
+    <string name="swipe_gestures_title">Жесты смахивания</string>
+    <string name="system_settings_title">Системные настройки</string>
+    <string name="torch_gestures_title">Жесты вспышки</string>
+    <string name="volume_keys_title">Кнопки громкости</string>
 
     <!-- Summaries -->
-    <string name="aosp_gesture_summary">Stock gestures included with Android</string>
-    <string name="animation_summary">Change the animation styles</string>
-    <string name="buttons_summary">Tweak the actions of your device\'s physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="lockscreen_summary">Take control of your lockscreen items</string>
-    <string name="misc_summary">Gaming mode and other system settings</string>
-    <string name="notifications_summary">Heads Up, Edge lighting, Call notif options</string>
-    <string name="navigation_summary">Customize navigation bar style and behavior</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
-    <string name="quicksettings_summary">Modify the QS panel header, layout, opacity, brightness slider visibility</string>
-    <string name="statusbar_summary">Personalize your status bar items</string>
+    <string name="aosp_gesture_summary">Стандартные жесты, которые уже присутствуют в Android</string>
+    <string name="animation_summary">Изменить стиль анимации</string>
+    <string name="buttons_summary">Изменить действия на аппаратные кнопки устройства</string>
+    <string name="gestures_summary">Опции/действия на жесты</string>
+    <string name="lockscreen_summary">Управление элементами экрана блокировки</string>
+    <string name="misc_summary">Игровой режим и другие системные настройки</string>
+    <string name="notifications_summary">Heads Up, Боковая подсветка, Уведомления о звонке</string>
+    <string name="navigation_summary">Настроить стиль и поведение панели навигации</string>
+    <string name="powermenu_summary">Настроить параметры выключения</string>
+    <string name="quicksettings_summary">Изменить заголовок быстрых настроек, расположение, прозрачность, видимость слайдера яркости</string>
+    <string name="statusbar_summary">Персонализировать элементы строки состояния</string>
 
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
-    <string name="attention">Attention</string>
-    <string name="default_string">Default</string>
+    <string name="ok">ОК</string>
+    <string name="reset">Сбросить</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+    <string name="action_save">Сохранение</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="attention">Внимаение</string>
+    <string name="default_string">Стандарт</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Включен</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Выключен</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвет ниже, чтобы применить его</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Установить</string>
+    <string name="color_default">Стандарт</string>
 
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Стандартного значения нет</string>
+    <string name="seekbar_default_value_set">Значение выставлено по стандарту <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Стандартное значение уже выставлено</string>
+    <string name="seekbar_default_string">Стандрт</string>
 
     <!-- Lockscreen information -->
-    <string name="lockscreen_info_title">Lockscreen info elements</string>
+    <string name="lockscreen_info_title">Информация на экране блокировки</string>
 
     <!-- Lockscreen battery info indicator -->
-    <string name="lockscreen_battery_info_title">Charging info</string>
-    <string name="lockscreen_battery_info_summary">Display charger max current, voltage and battery temperature while charging</string>
+    <string name="lockscreen_battery_info_title">Информация о заряде</string>
+    <string name="lockscreen_battery_info_summary">Отображать информацию о зарядке, напряжение и температура батареи во время зарядки</string>
 
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_category_title">Brightness slider options</string>
-    <string name="qs_show_brightness_title">Brightness slider</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_category_title">Настройки ползунка яркости</string>
+    <string name="qs_show_brightness_title">Ползунок яркости</string>
+    <string name="qs_show_brightness_summary">Показывать ползунок яркости на панели быстрых настроек</string>
+    <string name="qs_brightness_position_bottom_title">Ползунок яркости снизу</string>
+    <string name="qs_brightness_position_bottom_summary">Показывать ползунок яркости в нижней части быстрых настроек</string>
 
     <!-- Double Tap gestures -->
-    <string name="dtts_category_title">Double tap to sleep</string>
+    <string name="dtts_category_title">Двойное касание для сна</string>
 
     <!-- Double tap-to-sleep -->
-    <string name="double_tap_to_sleep_title">Status bar</string>
-    <string name="double_tap_to_sleep_summary">Double tap status bar to put the device to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_title">Lockscreen</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Строка состояния</string>
+    <string name="double_tap_to_sleep_summary">Дважды коснитесь строки состояния для ухода устройства в режим сна</string>
+    <string name="double_tap_to_sleep_lockscreen_title">Экран блокировки</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Дважды коснитесь экрана блокировки для ухода устройства в режим сна</string>
 
     <!-- Fingerprint authentication vibration -->
     <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
